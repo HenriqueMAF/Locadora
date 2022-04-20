@@ -1,0 +1,10 @@
+
+Local...........en_US.UTF-8
+Data Atual.............21/3/2022	Horário Atual..........20:37:20
+Cliente: João Pedro Soares Raccolto
+CPF: 0000000000
+Modelo: D456
+Dias: 10
+Debito: 3600.00
+Dias de locação: 0
+Valor reajustado: R$ 3600.00

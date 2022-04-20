@@ -1,0 +1,8 @@
+
+Local...........en_US.UTF-8
+Data Atual.............21/3/2022	Horário Atual..........20:36:28
+Cliente: João Pedro Soares Raccolto
+CPF: 0000000000
+Modelo reservado: D456;
+Dias reservado: 10;
+Debito: R$ 3600.00
